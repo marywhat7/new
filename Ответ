@@ -1,0 +1,36 @@
+marina@debian:~$ python laba41.py
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Index - My Webpage</title>
+    <meta charset='utf-8'>
+    
+    
+        <link rel="stylesheet" href="/_static/main.css"/>
+    
+        <link rel="stylesheet" href="/_static/bootstrap.css"/>
+    
+        <link rel="stylesheet" href="/_static/normalize.css"/>
+    
+
+</head>
+<body>
+    
+    
+        <script src="/_static/app.js"></script>
+    
+        <script src="/_static/react.js"></script>
+    
+        <script src="/_static/leaflet.js"></script>
+    
+        <script src="/_static/D3.js"></script>
+    
+        <script src="/_static/moment.js"></script>
+    
+        <script src="/_static/math.js"></script>
+    
+
+</body>
+</html>
+200 OK
+Content-Type: text/HTML
