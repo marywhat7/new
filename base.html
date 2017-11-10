@@ -1,0 +1,17 @@
+//За основу взят пример из лекции 
+//http://lectures.uralbash.ru/6.www.sync/2.codding/3.templates/jinja2.html#extends
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <title>{% block title %}{% endblock %} - My Webpage</title>
+    <meta charset='utf-8'>
+      Its header  
+    {% endblock %}
+</head>
+<body>
+    {% block footer %}
+	Its body
+    {% endblock %}
+</body>
+</html>
