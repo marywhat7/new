@@ -1,5 +1,4 @@
 //На основе 3 лабы
-#python 3.5.2
 from jinja2 import Environment, FileSystemLoader
 from webob import Request, Response
 
